@@ -47,3 +47,8 @@ Publications (Publikasi)
 8. Controller kemudian memuat file View yang sesuai: require 'app/views/lecturers/edit.php';
 9. Tampilan (Response): File edit.php (dibantu oleh header.php dan footer.php) me-render HTML, mengisi form dengan data yang diterima dari Controller.
 10. HTML final dikirimkan kembali ke browser pengguna.
+
+## Dokumentasi
+
+https://github.com/user-attachments/assets/641f0973-b7ec-4e8f-ba79-2d9683999d9e
+
