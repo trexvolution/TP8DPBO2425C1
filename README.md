@@ -13,9 +13,13 @@ Untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah di 
 
 Program dibangun menggunakan MVC untuk memisahkan logika aplikasi (Model), tampilan (View), dan pengendali alur (Controller). Adapun entitas utama yang digunakan:
 
-Lecturers (Dosen)
-Departments (Program Studi)
-Publications (Publikasi)
+1. Lecturers (Dosen)
+2. Departments (Program Studi)
+3. Publications (Publikasi)
+
+Dengan bentuk database seperti berikut
+
+<img width="904" height="373" alt="Screenshot 2025-11-17 211616" src="https://github.com/user-attachments/assets/81f5f6ad-e5de-400d-8bbd-5c1b2d44abfd" />
 
 ## Struktur Folder
 
